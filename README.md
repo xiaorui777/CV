@@ -29,3 +29,8 @@ Low Level Image Processing
 - Affine Transform
 
 - Perspective Transform
+
+
+## part3: Change-photo-background
+
+- Change the blue background of the photo to white background
