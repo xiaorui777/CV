@@ -17,7 +17,7 @@ Low Level Image Processing
 
 - Change color of image
 
-- Gamma correction¶
+- Gamma correction
 
 - Histogram
 
