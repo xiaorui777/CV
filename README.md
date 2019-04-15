@@ -34,3 +34,8 @@ Low Level Image Processing
 ## part3: Change-photo-background
 
 - Change the blue background of the photo to white background
+
+
+## part4: 2d-Convolution-Operation
+
+- Median Blur
