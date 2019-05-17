@@ -10,7 +10,8 @@
  
  - part4: 二维卷积操作（中值滤波）
  - part5: 两层神经网络的实现
-
+ - part6: matplotlib相关操作
+ 
 ## part1: Image-Basic-Operation1
 
 - Read in a Gray image or Color image
