@@ -53,3 +53,21 @@
 ## part4: Implementation:NN
 
 - Neural Network and Back Propagation
+
+## part5: Matplotlib-Operation
+
+- Axes
+
+- Legend
+
+- add text and annotate in graph
+
+- Twin axes
+
+- Insert plot
+
+- Scatter
+
+- Subplot2grid
+
+- Sympy
