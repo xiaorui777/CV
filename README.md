@@ -1,21 +1,7 @@
 # CV (计算机视觉相关)
 
-## 图片的相关操作：
- 
- - part1: 图像的读写、裁剪等
- - part2: 图像的三种仿射变换
- - part3: 更换证件照背景颜色
-
-## 神经网络相关内容：
- 
- - part4: 二维卷积操作（中值滤波）
- - part5: 两层神经网络的实现
-
-## 科学计算相关内容：
- - part6: matplotlib相关操作
- - part7: cython 加速python
- 
-## part1: Image-Basic-Operation1
+## 图片的相关操作： 
+## part1: Image-Basic-Operation1 （图像的读写、裁剪等）
 
 - Read in a Gray image or Color image
 
@@ -35,8 +21,7 @@
 
 - Histogram
 
-
-## part2: Image-Basic-Operation2
+## part2: Image-Basic-Operation2 （图像的三种仿射变换）
 
 - Similarity Transform
 
@@ -45,21 +30,22 @@
 - Perspective Transform
 
 
-## part3: Change-photo-background
+## part3: Change-photo-background （更换证件照背景颜色）
 
 - Change the blue background of the photo to white background
 
 
-## part4: 2d-Convolution-Operation
+## 神经网络相关： 
+## part4: 2d-Convolution-Operation（二维卷积操作：中值滤波）
 
 - Median Blur
 
-## part5: Implementation:NN
+## part5: Implementation:NN（两层神经网络的实现）
 
 - Neural Network and Back Propagation
 
-
-## part6: Matplotlib-Operation
+## 科学计算：
+## part6: Matplotlib-Operation（matplotlib相关操作）
 
 - Axes
 
@@ -78,4 +64,12 @@
 - Sympy
 
 
-## part7: Cython
+## part7: Cython（加速python）
+
+## part8: Pytorch
+
+- Pytorch 和 Numpy 的简单对比
+
+- Pytorch 的基本操作
+
+- 线性回归模型（Linear Regression）
