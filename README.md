@@ -58,9 +58,8 @@
 
 - Neural Network and Back Propagation
 
-## part6: Matplotlib-Operation
 
-## part7: Cython
+## part6: Matplotlib-Operation
 
 - Axes
 
@@ -77,3 +76,6 @@
 - Subplot2grid
 
 - Sympy
+
+
+## part7: Cython
