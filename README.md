@@ -10,7 +10,10 @@
  
  - part4: 二维卷积操作（中值滤波）
  - part5: 两层神经网络的实现
+
+## 科学计算相关内容：
  - part6: matplotlib相关操作
+ - part7: cython 加速python
  
 ## part1: Image-Basic-Operation1
 
@@ -51,11 +54,13 @@
 
 - Median Blur
 
-## part4: Implementation:NN
+## part5: Implementation:NN
 
 - Neural Network and Back Propagation
 
-## part5: Matplotlib-Operation
+## part6: Matplotlib-Operation
+
+## part7: Cython
 
 - Axes
 
