@@ -1,6 +1,7 @@
 # CV (计算机视觉相关)
 
 ## 图片的相关操作： 
+
 ## part1: Image-Basic-Operation1 （图像的读写、裁剪等）
 
 - Read in a Gray image or Color image
@@ -36,6 +37,7 @@
 
 
 ## 神经网络相关： 
+
 ## part4: 2d-Convolution-Operation（二维卷积操作：中值滤波）
 
 - Median Blur
@@ -66,7 +68,8 @@
 
 ## part7: Cython（加速python）
 
-## part8: Pytorch
+
+## Pytorch
 
 - Pytorch 和 Numpy 的简单对比
 
