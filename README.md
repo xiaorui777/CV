@@ -76,3 +76,13 @@
 - Pytorch 的基本操作
 
 - 线性回归模型（Linear Regression）
+
+## Pytorch-2
+
+- 二分类模型
+
+- 网络的存取
+
+- 批训练
+
+- 优化策略
